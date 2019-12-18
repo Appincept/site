@@ -19,11 +19,9 @@ include_in_header: true
 ### **Version 3.0.2**
 
 #### What's New
-
 - Enable notifications for Android 8 and up
 
 #### Bug Fixes
-
 UI Tweaks and bug fixes.
 
 <br>
@@ -35,7 +33,6 @@ ________
 # **Version 1.0.2**
 
 #### What's New
-
 - New chime sound.
 - Configure squeeze / relax timings to anywhere between 1 - 60 seconds.
 - Pause / resume your training.
@@ -45,7 +42,6 @@ ________
 
 ## **Version 2.0.0**
 #### What's New
-
 - Track your progress.
 - Completion cues.
 - Set time for rest between sets.
@@ -54,14 +50,12 @@ ________
 
 ## Version 2.0.1
 #### Bug Fixes
-
 UI Tweaks and bug fixes.
 
 <br>
 
 ## **Version 3.0.0**
 #### Bug Fixes
-
 UI Tweaks and bug fixes.
 
 <br>
