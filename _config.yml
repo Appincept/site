@@ -37,9 +37,9 @@ features                                  :
   
   
   - title                                 : Feature List
-    description                           : • Set the speed and duration of the timer.
-                                            • Select audio, visual or vibration guides to help you complete your workout.
-                                            • Set daily / weekly reminders.
+    description                           : • Set the speed and duration of the timer. \\
+                                            • Select audio, visual or vibration guides to help you complete your workout.\\
+                                            • Set daily / weekly reminders.\\
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
