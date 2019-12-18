@@ -13,8 +13,6 @@ include_in_header: true
 #### What's New
 - [Added Privacy policy](/privacypolicy)
 
-<br>
-
 ### **Version 3.0.2**
 #### What's New
 - Enable notifications for Android 8 and up
