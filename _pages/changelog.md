@@ -33,6 +33,8 @@ ________
 - New chime sound.
 - Configure squeeze / relax timings to anywhere between 1 - 60 seconds.
 - Pause / resume your training.
+
+#### Bug Fixes
 - Minor UI bug fixes.
 
 <br>
