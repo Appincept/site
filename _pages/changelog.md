@@ -15,8 +15,7 @@ include_in_header: true
  
  <br>
  
-### **Version 3.0.2**
-
+## **Version 3.0.2**
 #### What's New
 - Enable notifications for Android 8 and up
 
