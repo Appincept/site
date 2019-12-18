@@ -111,5 +111,7 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# This will require each of these plugins automaticall
 plugins:
   - jekyll-seo-tag
