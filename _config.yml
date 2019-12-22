@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : AppIncept - Kegel Guide                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 
@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Appincept                           
+your_name                                 : AppIncept                           
 your_link                                 : https://Appincept.com                     
 your_city                                 :                              
 email_address                             : Appincept@gmail.com
